@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/xniklas18/sveltekit">
-    <img src="logo.png" alt="Logo">
+    <img src="static/logo.png" alt="Logo">
   </a>
 
   <h1 align="center">SvelteKit</h1>
@@ -20,6 +20,7 @@
 Most of the time GitHub profiles are full of different kinds of projects that are maybe all related to each other. I want to have my profile as organized as possible.
 
 ## Tutorial / What I learned
+
 `Name of the Video and / or a website` <br />
 <br />
 `What I learned`
