@@ -21,9 +21,12 @@ Most of the time GitHub profiles are full of different kinds of projects that ar
 
 ## Tutorial / What I learned
 
-`Name of the Video and / or a website` <br />
+`Build an App with SvelteKit and Tailwind CSS - James Q Quick` <br />
 <br />
-`What I learned`
+Link: https://youtu.be/YipaPr4Aex8
+<br />
+<br />
+`I learned how to make a TodoList and use data binding so i can easily show and get data on user update`
 
 ## License
 
